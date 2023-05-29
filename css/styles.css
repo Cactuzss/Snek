@@ -13,7 +13,7 @@ body {
 canvas {
   margin: 1%;
   width: 98%;
-  height: 98%;
+  height: 95%;
   image-rendering: pixelated;
   background: #011501;
   display: block;
